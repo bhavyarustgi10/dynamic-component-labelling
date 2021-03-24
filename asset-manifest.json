@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-hello/static/css/main.afd7172b.chunk.css",
-    "main.js": "/react-hello/static/js/main.0e4787c2.chunk.js",
-    "main.js.map": "/react-hello/static/js/main.0e4787c2.chunk.js.map",
-    "runtime-main.js": "/react-hello/static/js/runtime-main.8816dd26.js",
-    "runtime-main.js.map": "/react-hello/static/js/runtime-main.8816dd26.js.map",
-    "static/js/2.1b93e066.chunk.js": "/react-hello/static/js/2.1b93e066.chunk.js",
-    "static/js/2.1b93e066.chunk.js.map": "/react-hello/static/js/2.1b93e066.chunk.js.map",
-    "static/js/3.3c83f657.chunk.js": "/react-hello/static/js/3.3c83f657.chunk.js",
-    "static/js/3.3c83f657.chunk.js.map": "/react-hello/static/js/3.3c83f657.chunk.js.map",
-    "index.html": "/react-hello/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/react-hello/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.1b93e066.chunk.js.LICENSE.txt": "/react-hello/static/js/2.1b93e066.chunk.js.LICENSE.txt"
+    "main.css": "/dynamic-component-labelling/static/css/main.afd7172b.chunk.css",
+    "main.js": "/dynamic-component-labelling/static/js/main.0e4787c2.chunk.js",
+    "main.js.map": "/dynamic-component-labelling/static/js/main.0e4787c2.chunk.js.map",
+    "runtime-main.js": "/dynamic-component-labelling/static/js/runtime-main.2833e570.js",
+    "runtime-main.js.map": "/dynamic-component-labelling/static/js/runtime-main.2833e570.js.map",
+    "static/js/2.4c5ee07c.chunk.js": "/dynamic-component-labelling/static/js/2.4c5ee07c.chunk.js",
+    "static/js/2.4c5ee07c.chunk.js.map": "/dynamic-component-labelling/static/js/2.4c5ee07c.chunk.js.map",
+    "static/js/3.3c83f657.chunk.js": "/dynamic-component-labelling/static/js/3.3c83f657.chunk.js",
+    "static/js/3.3c83f657.chunk.js.map": "/dynamic-component-labelling/static/js/3.3c83f657.chunk.js.map",
+    "index.html": "/dynamic-component-labelling/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/dynamic-component-labelling/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.4c5ee07c.chunk.js.LICENSE.txt": "/dynamic-component-labelling/static/js/2.4c5ee07c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8816dd26.js",
-    "static/js/2.1b93e066.chunk.js",
+    "static/js/runtime-main.2833e570.js",
+    "static/js/2.4c5ee07c.chunk.js",
     "static/css/main.afd7172b.chunk.css",
     "static/js/main.0e4787c2.chunk.js"
   ]
